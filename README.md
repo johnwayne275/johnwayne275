@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on interesting web development projects.
 - 📫 How to reach me: jiangweiyi275@gmail.com
 - 🌍 Pronouns: He/Him
-- ⚡ Fun fact: I love hiking and photography.
+- ⚡ Fun fact: I love Pink Floyd.
 
 <!---
 johnwayne275/johnwayne275 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
