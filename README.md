@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @johnwayne275
-- 👀 I’m interested in learning new technologies, web development, and open-source projects.
-- 🌱 I’m currently learning Python and JavaScript.
+- 👀 I’m interested in learning new technologies and open-source projects.
+- 🌱 I’m currently learning Python and Data Science.
 - 💞️ I’m looking to collaborate on interesting web development projects.
 - 📫 How to reach me: jiangweiyi275@gmail.com
 - 🌍 Pronouns: He/Him
